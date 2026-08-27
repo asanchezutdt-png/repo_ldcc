@@ -2,7 +2,7 @@ repo_ldcc
 
 Integrantes: 
 
-Renata Patti
+Renata Patti (17/05/2006)
 
 Agustina Kern
 
